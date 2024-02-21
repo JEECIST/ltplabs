@@ -1,4 +1,4 @@
-#IA na prática: Como reduzir o desperdício alimentar?
+# IA na prática: Como reduzir o desperdício alimentar?
 
 Durante o workshop iremos explicar a abordagem de uma equipa da LTP para um problema da área do retalho. Iremos também detalhar um dos modelos de Machine Learning utilizados para o problema em questão. A linguagem de programação será Python com a versão 3.11.0 e as bibliotecas a utilizar são:
 H2O: framework que permite aplicar modelos de Machine Learning e conhecido sobretudo pelas funcionalidades de explicabilidade. Pode ser instalada através do comando pip install h2o
